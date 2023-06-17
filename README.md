@@ -1,10 +1,5 @@
 # Naïve Bayes classifier
 
-> 石大川 2017013632
->
-> mailto: sdc17@mails.tsinghua.edu.cn
->
-> tel: 18801212381
 
 ### Environment
 
@@ -56,6 +51,6 @@ python Predict.py
 without kfold and training process will also be fine.
 
 ### Deatils
-See [Report.pdf](./report.pdf)
+See [Report.pdf](./report.pdf) (in Chinese).
 
 
